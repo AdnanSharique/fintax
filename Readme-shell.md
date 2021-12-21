@@ -329,22 +329,7 @@ cd ./fintax/fintaxdemo
       
 ### Task 5: Power BI reports and dashboard creation
 
-1. **Open** Power BI in a new tab using the following link
-        [https://app.powerbi.com/](https://app.powerbi.com/).
-
-2. **Sign into** Power BI. Use the same Azure account you have used throughout this setup process.
-
-	![Sign in to Power BI Services.](media/power-bi-report.png)
-	
-3. Go to workspaces and **click on** create workspace.
-
-	![Create Workscpace.](media/power-bi-report-1.png)
-	
-4. Write the new workspace name and **click** on save.
-
-	![Click Save.](media/power-bi-report-2.png)
-	
-5. **Select** the Workspace, which is created in [Task 2](#task-2-power-bi-workspace-creation).
+1. **Open** Power BI and **Select** the Workspace, which is created in [Task 2](#task-2-power-bi-workspace-creation).
 	
 	![Select Workspace.](media/power-bi-report-3.png)
 	
@@ -587,7 +572,7 @@ This task is optional since we have provided static versions of the reports in t
 
 > **Note:** Use the same credentials for Power BI which you will be using for the Azure account.
 	
-3. After signing in, **click** the workspaces button from the hamburger menu and **select** the “FinanceandTaxation-Prod” workspace.
+3. After signing in, **click** the workspaces button from the hamburger menu and **select** the “DDiB-Fintax” workspace.
 
 	![Click Workspace.](media/power-bi-report-47.png)
 
@@ -618,7 +603,7 @@ By default, the web app will be provisioned with Gif placeholders for web app sc
 
 1. **Navigate** to your Power BI workspace.
 
-2. **Click** on one of the dashboards you created. Eg. Woodgrove Executive dashboard June.
+2. **Click** on one of the dashboards you created. Eg. Taxpayer Client Services Commissioner Dashboard Before.
 
 	![Navigate and Click.](media/updating-powerbi.png)
 
@@ -702,51 +687,6 @@ By default, the web app will be provisioned with Gif placeholders for web app sc
 	![Paste select and wait.](media/updating-powerbi-11.png)
 
 > **Note:** You may be prompted to select your subscription if you have multiple subscriptions.
-
-### Task 6: AML notebook execution
-
-1. **Open** the azure portal and go to resource group **‘DDib-Fintax’.**
-
-	![Open resource.](media/open-rg.png)
-
-2. **Type** in filter “amlws-” and open the resource.
-
-	![Open resource.](media/aml-1.png)
-
-3. **Click** “Launch studio”
-
-	![Launch studio.](media/aml-2.png)
-
-4. **Login** with the same user that you used for signing into the Azure Portal in [Task 1](#task-1-create-a-resource-group-in-azure).
-
-5. **Open** Compute section and enter compute name, **select** “ STANDARD_DS2_V2” as compute quota and **click** on create.
-
-	![Compute section and enter compute name.](media/aml-3.png)
-
-> **Note:**  It will take few minutes to create a compute instance.
-
-6. **Open** Notebooks.
-
-7. **Click** on “ 8. Understanding and Removing Biases from Machine Learning Models using Azure Fairlearn” notebook.
-
-	![Open Notebooks.](media/aml-4.png)
-
-8. **Select** Compute created in step 5 and kernel as shown in image.
-
-9. **Click** run all.
-	
-	![Select Compute created.](media/aml-5.png)
-
-10. **Scroll** through the notebook cells, at cell 16 execution it will ask to do device login. Follow the steps with same user.
-
-	![Scroll through the notebook.](media/aml-6.png)
-
-
-11. **Scroll** down till the end and wait for the green tick.
-
-12. **Open** Experiments and see if experiments are created.
-
-	![Scroll and Open.](media/aml-7.png)
 
 ### Task 7: Pause or Resume script
 

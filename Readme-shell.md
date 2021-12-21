@@ -350,9 +350,9 @@ cd ./fintax/fintaxdemo
 	
 Once [Task 4](#task-4-run-the-cloud-shell-to-provision-the-demo-resources) has been completed successfully and the template has been deployed, you will be able to see a set of reports in the Reports tab of Power BI, and real-time datasets in the Dataset tab. 
 
-The image on the right shows the Reports tab in Power BI.  We can create a Power BI dashboard by pinning visuals from these reports.
+The image on the below shows the Reports tab in Power BI.  We can create a Power BI dashboard by pinning visuals from these reports.
 
-	![Reports Tab.](media/power-bi-report-4.png)
+![Reports Tab.](media/power-bi-report-4.png)
 	
 > **Note:** If you do not see this list in your workspace after script execution, it may indicate that something went wrong during execution. You may use the subscript to patch it or manually upload the reports from this location and changing their parameters appropriately before authentication.
 
@@ -564,15 +564,15 @@ Table in following row indicates which KPI’s need to be pinned from which repo
 	
 64. **Tax Auditor After** should look like this.
 
-	[Final Look.](media/power-bi-report-43.png)
+	![Final Look.](media/power-bi-report-43.png)
 	
 65. **Anti-Corruption Unit Before** should look like this.
 
-	[Final Look.](media/power-bi-report-44.png)
+	![Final Look.](media/power-bi-report-44.png)
 	
 66. **Anti-Corruption Unit After** should look like this.
 
-	[Final Look.](media/power-bi-report-45.png)
+	![Final Look.](media/power-bi-report-45.png)
 	
 **Steps to create Real time report (Optional)**
 

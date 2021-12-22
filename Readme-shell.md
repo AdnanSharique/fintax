@@ -502,64 +502,83 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Will see.](media/power-bi-report-30.png)
 	
-52. The Dashboard “Taxpayer Client Services Commissioner Dashboard Before” should finally look like this.
-Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
+52. The Dashboard “Taxpayer Client Services Commissioner Dashboard Before” should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
 
 	![Final Look.](media/power-bi-report-31.png)
 	
-53. Here is the list of Dashboards you have to create for TRF and the report to migrate to prod environment. You will see the necessary details for the same below.
+53. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-1.png)
+	
+54. Here is the list of Dashboards you have to create for TRF and the report to migrate to prod environment. You will see the necessary details for the same below.
 
 	![Final Look.](media/power-bi-report-32.png)
 	
-54. **Tax Collection Commissioner Before** should look like this. Following are the details of tiles for the same.
+55. **Tax Collection Commissioner Before** should look like this. Following are the details of tiles for the same.
 
 	![Final Look.](media/power-bi-report-33.png)
 	
-55. **Tax Collection Commissioner Mid** should look like this. Following are the details of tiles for the same.
+56. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-2.png)
+
+57. **Tax Collection Commissioner Mid** should look like this. Following are the details of tiles for the same.
 	
 	![Final Look.](media/power-bi-report-34.png)
 	
-56. **Tax Collection Commissioner After** should look like this. Following are the details of tiles for the same.
+58. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-3.png)
+
+59. **Tax Collection Commissioner After** should look like this. Following are the details of tiles for the same.
 
 	![Final Look.](media/power-bi-report-35.png)
 	
-57. **Taxpayer Client Services Commissioner Before** Dashboard should look like this. 
+60. **Refer** to this table while pinning rest of the tiles to the dashboard.	
+
+	![Table.](media/power-bi-table-4.png)
+
+61. **Taxpayer Client Services Commissioner Before** Dashboard should look like this. 
 
 	![Final Look.](media/power-bi-report-36.png)
 	
-58. **Taxpayer Client Services Commissioner After** Dashboard should look like this.
+62. **Refer** to this table while pinning rest of the tiles to the dashboard.
+
+	![Table.](media/power-bi-table-1.png)
+
+63. **Taxpayer Client Services Commissioner After** Dashboard should look like this.
 	
 	![Final Look.](media/power-bi-report-37.png)
 
-59. **Tax Compliance Commissioner Before** Dashboard should look like this.
+64. **Tax Compliance Commissioner Before** Dashboard should look like this.
 
 	![Final Look.](media/power-bi-report-38.png)
 	
-60. **Tax Compliance Commissioner After** Dashboard should look like this.
+65. **Tax Compliance Commissioner After** Dashboard should look like this.
 
 	![Final Look.](media/power-bi-report-39.png)
 	
-61. **Fraud Investigator Before** Dashboard should look like this.
+66. **Fraud Investigator Before** Dashboard should look like this.
 	
 	![Final Look.](media/power-bi-report-40.png)
 	
-62. **Fraud Investigator After** Dashboard should look like this.
+67. **Fraud Investigator After** Dashboard should look like this.
 
 	![Final Look.](media/power-bi-report-41.png)
 	
-63. **Tax Auditor Before** should look like this.
+68. **Tax Auditor Before** should look like this.
 
 	![Final Look.](media/power-bi-report-42.png)
 	
-64. **Tax Auditor After** should look like this.
+69. **Tax Auditor After** should look like this.
 
 	![Final Look.](media/power-bi-report-43.png)
 	
-65. **Anti-Corruption Unit Before** should look like this.
+70. **Anti-Corruption Unit Before** should look like this.
 
 	![Final Look.](media/power-bi-report-44.png)
 	
-66. **Anti-Corruption Unit After** should look like this.
+71. **Anti-Corruption Unit After** should look like this.
 
 	![Final Look.](media/power-bi-report-45.png)
 	

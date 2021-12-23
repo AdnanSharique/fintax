@@ -656,7 +656,7 @@ By default, the web app will be provisioned with Gif placeholders for web app sc
 
 10. **Edit** the downloaded file in notepad.
 
-11. **Paste** the dashboard id you copied earlier between the double quotes of key ‘taxpayer_client_services_before’.
+11. **Paste** the dashboard id you copied earlier between the double quotes of key ‘ceo_dashboard_march’.
 
 12. **Save** the changes to the file.
 

@@ -504,7 +504,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Will see.](media/power-bi-report-30.png)
 	
-52. The Dashboard “Taxpayer Client Services Commissioner Dashboard Before” should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
+52. The Dashboard **Taxpayer Client Services Commissioner Dashboard Before** should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
 
 	![Final Look.](media/power-bi-report-31.png)
 	
@@ -540,13 +540,13 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Table.](media/power-bi-table-4.png)
 
-61. **Taxpayer Client Services Commissioner Before** Dashboard should look like this. 
+61. **Taxpayer Client Services Commissioner After Dashboard** Dashboard should look like this. 
 
 	![Final Look.](media/power-bi-report-36.png)
 	
 62. **Refer** to this table while pinning rest of the tiles to the dashboard.
 
-	![Table.](media/power-bi-table-1.png)
+	![Table.](media/power-bi-table-5.png)
 	
 ### Steps to create Real time report
 

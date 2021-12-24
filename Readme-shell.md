@@ -512,7 +512,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Table.](media/power-bi-table-1.png)
 	
-54. Here is the list of Dashboards you have to create for TRF and the report to migrate to prod environment. You will see the necessary details for the same below.
+54. Here is the list of Dashboards you have to create for TRF and the report to migrate to prod environment. You will see the necessary details for the same below. You must refer to the [Excel](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/blob/fintax/fintaxdemo/KPIS%20Dashboards%20mapping.xlsx) file for pinning the tiles to the dashboard.
 
 	![Final Look.](media/power-bi-report-32.png)
 	

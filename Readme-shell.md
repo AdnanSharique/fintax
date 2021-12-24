@@ -584,7 +584,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Final Look.](media/power-bi-report-45.png)
 	
-**Steps to create Real time report**
+### Steps to create Real time report
 
 This task is optional since we have provided static versions of the reports in the package already.
 
@@ -623,7 +623,7 @@ This task is optional since we have provided static versions of the reports in t
 
 	![Create other visuals and save the Power BI Report.](media/power-bi-report-52.png)
 
-**Updating Dashboard and Report Id’s in Web app:**
+### Updating Dashboard and Report Id’s in Web app
 
 By default, the web app will be provisioned with Gif placeholders for web app screens with dashboards. Once you have completed the steps listed above in this section, you can update the dashboard id’s generated in to the main web app if you choose. Here are the steps for it.
 

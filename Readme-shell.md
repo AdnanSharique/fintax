@@ -43,7 +43,7 @@ THIS DEMO/LAB PROVIDES CERTAIN SOFTWARE TECHNOLOGY/PRODUCT FEATURES AND FUNCTION
   - [Task 4: Run the Cloud Shell to provision the demo resources](#task-4-run-the-cloud-shell-to-provision-the-demo-resources)
   - [Task 5: Power BI reports and dashboard creation](#task-5-power-bi-reports-and-dashboard-creation)
   	- [Steps to create Real time report](#steps-to-create-real-time-report)
-  	- [Updating Dashboard and Report Id’s in Web app](#updating-dashboard-and-report-id's-in-web-app)
+  	- [Updating Dashboard and Report Id’s in Web app](#updating-dashboard-and-report-id-s-in-web-app)
   - [Task 6: QnAmaker and LogicApp Configuration](#task-6-qnamaker-and-logicapp-configuration)
   - [Task 7: Pause or Resume script](#task-7-pause-or-resume-script)
   - [Task 8: Clean up resources](#task-8-clean-up-resources)
